@@ -1,0 +1,50 @@
+
+.navbar{
+    background: rgb(231,225,143);
+    background: linear-gradient(90deg, rgba(231,225,143,1) 0%, rgba(242,242,234,1) 50%, rgba(213,211,127,1) 100%);
+}
+.body{
+    background: rgb(231,225,143);
+background: linear-gradient(90deg, rgba(231,225,143,1) 0%, rgba(242,242,234,1) 50%, rgba(213,211,127,1) 100%);
+}
+.navbar-brand{
+    margin-left: 40px;
+}
+.navbar-nav{
+margin-left: 400px;
+
+}
+.icon{
+    display: flex;
+    margin-left: 35px;
+}
+#contact{
+    border: 1px solid coral;
+    border-radius: 100px;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-left: 30px;
+    background: rgb(203,187,33);
+background: radial-gradient(circle, rgba(203,187,33,1) 15%, rgba(223,129,65,1) 96%);
+}
+.container1{
+    margin-top: 115px;
+    margin-left: 20px;
+}
+.btn{
+    margin-top: 35px;
+    border: 1px solid rgb(10, 14, 11);
+    border-radius:150px;
+    background: rgb(238,64,12);
+background: radial-gradient(circle, rgba(238,64,12,1) 15%, rgba(223,129,65,1) 96%);
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+.container2{
+    margin-top: 95px;
+}
+.para{
+    margin-top: 50px;
+}
